@@ -24,7 +24,7 @@ Postmates API Key: a254dd7a-a9ba-4e30-9adf-7e72781caba3
 
 	Google Project: https://console.developers.google.com/project/graphite-store-107316
 
-- Need to find location of restraunt
+- Need to find location of restaurant
 - Need to find local food pantries
 
 
@@ -33,4 +33,4 @@ Postmates API Key: a254dd7a-a9ba-4e30-9adf-7e72781caba3
 	
 - Need to submit a POST request to have a delivery
 - Delivery Location = Food pantry selected on the Google API Integration
-- Pickup locaiton = Restraunt location Google picked up
+- Pickup location = Restaurant location Google picked up
